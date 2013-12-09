@@ -21,3 +21,6 @@ module.exports = (robot) ->
     msg.send "Goodbye, cruel world."
     process.exit 0
 
+  robot.respond /WHO ARE YOU$/i, (msg) ->
+    msg.send "Hi, I'm IronBot"
+    
