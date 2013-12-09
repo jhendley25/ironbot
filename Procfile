@@ -1,2 +1,2 @@
-web: bin/hubot --adapter hipchat --name IronBot
+web: bin/hubot --adapter hipchat --name "ironbot"
 
